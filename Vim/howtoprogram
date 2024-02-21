@@ -1,0 +1,17 @@
+1. Type "vim program.c"
+
+2. Use the code on the screen for reference!
+
+3. Instead of using arrow keys while making edits, try navigating with HJKL
+
+4. Instead of copy pasting printf or re-writing it, use visual mode to select ONE line and paste it.
+
+5. Come back to insert mode/replace mode to edit those statements.
+
+6. Exit with ":wq"
+
+7. Type "make program"
+
+8. Type "./program" to see your hardwork pay off!
+
+9. Wasn't this easy?
