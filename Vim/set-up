@@ -1,0 +1,15 @@
+/////SET-UP/////
+
+On UIC CS lab computers or MacOS:
+1. Open up the terminal.
+2. Type in "ssh <Your_NetID>@systems3.cs.uic.edu".
+3. Enter your password. 
+
+
+On Windows:
+1. Download and install a SSH client. The one that's probably easiest to use is OpenSSH. Install the OpenSSH CLIENT here: https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell#install-openssh-for-windows. 
+2. Once installed, set up a connection by typing into the connection address "ssh <Your_NetID>@systems3.cs.uic.edu".
+3. Once the terminal opens, enter your UIC password.
+4. Type "yes" and hit Enter.
+
+
